@@ -1,0 +1,9 @@
+.box {
+  background: #c1c1c1;
+  height: 80px;
+  width: 80px;
+}
+
+.box:empty {
+  background: rgb(118, 119, 118);
+}
